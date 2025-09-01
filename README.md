@@ -18,7 +18,7 @@ Installing:
 
     - PC:
 
-            1. Click on the green "Code" button.
-            2. Click "Download ZIP".
-            3. Go the the "Download" folder and unzip the downloaded file.
-            4. Double tap main.html to run.
+        1. Click on the green "Code" button.
+        2. Click "Download ZIP".
+        3. Go the the "Download" folder and unzip the downloaded file.
+        4. Double tap main.html to run.
